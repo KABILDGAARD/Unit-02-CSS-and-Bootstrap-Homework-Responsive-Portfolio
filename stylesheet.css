@@ -4,6 +4,11 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   }
 
+  .portfolio-page{
+    position: relative;
+    margin-bottom: 15%;
+  }
+
 /*Background Image on All Pages*/
 html body{
     background: url(Assets/backgroundimage2.jpg) no-repeat center center fixed;
@@ -30,6 +35,11 @@ html body{
     padding: 40px 0px;
     background-color: none;
   }
+
+/*Portfolio*/
+.portfolio-page{
+  padding: 1% 1%;
+}
 
 /* Contact Me Page */
   .contact-section{

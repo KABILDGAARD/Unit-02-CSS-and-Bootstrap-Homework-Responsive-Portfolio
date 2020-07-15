@@ -114,4 +114,4 @@ You are required to submit the following:
 The URL of the deployed applications: https://kabildgaard.github.io/Unit-02-CSS-and-Bootstrap-Homework-Responsive-Portfolio/index.html
 
 
-The URL of the GitHub repositories: https://github.com/KABILDGAARD/Unit-02-CSS-and-Bootstrap-Homework-Responsive-Portfolio/blob/master/README.md
+The URL of the GitHub repositories: https://github.com/KABILDGAARD/Unit-02-CSS-and-Bootstrap-Homework-Responsive-Portfolio

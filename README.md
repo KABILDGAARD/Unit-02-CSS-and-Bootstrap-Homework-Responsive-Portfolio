@@ -111,7 +111,7 @@ Submission on BCS
 You are required to submit the following:
 
 
-The URL of the deployed applications:
+The URL of the deployed applications: https://kabildgaard.github.io/Unit-02-CSS-and-Bootstrap-Homework-Responsive-Portfolio/index.html
 
 
 The URL of the GitHub repositories:
